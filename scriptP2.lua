@@ -171,6 +171,7 @@ end
 
 
 local function V()
+    
     loadstring(
         game:HttpGet(
             "https://api.luarmor.net/files/v3/loaders/" .. tostring(G) .. ".lua"
