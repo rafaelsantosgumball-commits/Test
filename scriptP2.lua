@@ -171,7 +171,6 @@ end
 
 
 local function V()
-	
 	return 0
     loadstring(
         game:HttpGet(
