@@ -172,11 +172,6 @@ end
 
 local function V()
 	return 0
-    //loadstring(
-    //    game:HttpGet(
-        //    "https://api.luarmor.net/files/v3/loaders/" .. tostring(G) .. ".lua"
-      //  )
-    //)()
 end
 
 
